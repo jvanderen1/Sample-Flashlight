@@ -29,7 +29,7 @@ This sample shows you how to use the Flashlight custom Apache Cordova plugin. Th
 
 Platform | Home
 ---|---
-All | ![](screenshots/home.png)
+All | ![](https://raw.githubusercontent.com/Icenium/Sample-Flashlight/master/screenshots/home.png)
 
 [Back to Top](#top)
 
